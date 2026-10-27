@@ -104,7 +104,7 @@ h3 {
 
 .nav-links a,
 .mobile-nav-panel a {
-  font-size: 12px;
+  font-size: 14px;
   color: #46564f;
   transition: color 160ms ease;
 }
@@ -225,7 +225,7 @@ h2 em {
   max-width: 380px;
   margin-bottom: 28px;
   color: rgba(255, 255, 255, 0.82);
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.8;
 }
 
@@ -1020,6 +1020,7 @@ h2 em {
     width: calc(100% - 28px);
     margin-top: -28px;
     padding: 19px;
+    border-radius: 15px;
   }
 
   .booking-bar label > span {
