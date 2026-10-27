@@ -10,4 +10,5 @@ export default defineConfig({
     tailwindcss(),
     babel({ presets: [reactCompilerPreset()] })
   ],
+  base: 'https://thedevella.github.io/lakeview-landing/'
 })
